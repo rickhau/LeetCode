@@ -7,6 +7,8 @@ This is mainly to find some common questions to help me pratice C / Python
 
 The `✪` requires LeetCode Premium Subscription
 
+| #   |                          Problems                            |     Solution       |
+|-----| ------------------------------------------------------------ | -------------------|
 | 1   | [Two Sum]                                                    | [C](src/1.c)       |
 | 2   | [Add Two Numbers]                                            |                    |
 | 3   | [Longest Substring Without Repeating Characters]             |                    |
