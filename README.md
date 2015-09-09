@@ -1,10 +1,8 @@
 ### LeetCode in C / Python
 
-[LeetCode algorithm problems]  
+[LeetCode algorithm problems](https://leetcode.com/problemset/algorithms)
 
 This is mainly to find some common questions to help me pratice C / Python
-
-[LeetCode algorithm problems]:(https://leetcode.com/problemset/algorithms)  
 
 The `✪` requires LeetCode Premium Subscription  
 
